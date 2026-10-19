@@ -1,0 +1,6 @@
+{
+  "name": "মেসার্স ভাই ভাই ভুসি ও গো-খাদ্য ভাণ্ডার",
+  "description": "অনলাইন গো-খাদ্য স্টোর এবং প্রফেশনাল একাউন্টিং ও লেজার ম্যানেজমেন্ট সিস্টেম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
